@@ -28,6 +28,9 @@ measument theory, data analysis procedure, experimental design.
 - Mã lớp <i>(Class ID)</i>: 141179
 - Loại lớp <i>(Class Type)</i></i>: LT+BT
 - Hệ <i>(Program)</i></i>: CTTT
-- GVHD <i>(Instructor)</i>: Nguyễn Linh Giang (https://soict.hust.edu.vn/pgs-ts-nguyen-linh-giang.html)
+- GVHD <i>(Instructor)</i>: Nguyễn Linh Giang (<i>https://soict.hust.edu.vn/pgs-ts-nguyen-linh-giang.html</i>)
 - Lịch <i>(Class Schedule)</i>: Tiết 1-4 Chiều thứ 2 (Tuần 25-32, 34-42) - GĐ-B1
 
+=====================================================================================
+Cách thức đánh giá môn học: TBA
+Note mỗi buổi học: TBA
