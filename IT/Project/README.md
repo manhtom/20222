@@ -14,7 +14,8 @@
 
 
 <b>- Nội dung</b>: Sử dụng ngôn ngữ lập trình C/C++/Java... cài đặt một số ứng dụng đơn giản có sử dụng các cấu trúc dữ liệu và các giải thuật từ đơn giản tới phức tạp; Viết báo cáo và thuyết trình kết quả.
-<b>Content</b>: Using C/ C++/ Java... programming language to implement simple applications that use simple and complex data structures and algorithms; students are required to write a report and present the results.
+
+<b>- Content</b>: Using C/ C++/ Java... programming language to implement simple applications that use simple and complex data structures and algorithms; students are required to write a report and present the results.
 
 ========================================
 - Mã lớp <i>(Class ID)</i>: 727521
