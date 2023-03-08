@@ -11,6 +11,7 @@ everything in 4th semester at "dau hang cong nghe VN"
 <b>Elective classes</b>
 - <b>ED3220</b> <i>[2(1-2-0-2)-0.7]</i>: Soft Skills 
 - <b>ED3280</b> <i>[2(1-2-0-4)-0.7]</i>: Applied Psychology
+- <b>PE2251</b> <i>[0(0-2-0-2)-1.0]</i>: Taekwondo 1
 
 <b>Note</b>:
 Basic structure of a folder for a class: Slides, Docs, Practice, Homework (to be further updated)
