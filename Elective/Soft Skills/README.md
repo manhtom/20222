@@ -17,7 +17,7 @@ Các kĩ năng phát triển cá nhân bao gồm: Tìm hiểu bản thân, xác 
 duy tích cực, sáng tạo và đổi mới; Quản lý thời gian hiệu quả; Nghệ thuật giao tiếp và thuyết trình;
 Nghệ thuật thuyết phục dựa trên tâm lí; Làm việc nhóm hiệu quả.
 
-<b><font size=”2”>- Objectives</b>: Students is able to:
+<b><font size=”2”>- Objectives</b>: Students are able to:
 - Identify the importance of personal development skills at school, at work and in their life; Analyze the
 fundamental knowledge to develop personal skills; Practice the steps to basically form the personal
 development skills; Aware of the need to practice skills of studying and working adapting to modern society
