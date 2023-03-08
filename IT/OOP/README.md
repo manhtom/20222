@@ -1,7 +1,7 @@
-# Cơ sở dữ liệu
-<b>Database</b>
+# Lập trình hướng đối tượng
+<b>Object-oriented Programming</b>
 
-- Mã học phần <i>(Course ID)</i>: IT3090E
+- Mã học phần <i>(Course ID)</i>: IT3100E
 - Khối lượng <i>(Credits)</i>: 3(2-1-1-6)-0.5
 - Học phần tiên quyết <i>(Prerequisite)</i>: IT1110E
 - Học phần học trước <i>(Pre-courses)</i>: Không <i>(None)</i>
@@ -50,7 +50,7 @@ course, students will be asked to work individually with a case study in 05 hand
 - Mã lớp <i>(Class ID)</i>: 141177
 - Loại lớp <i>(Class Type)</i></i>: LT+BT
 - Hệ <i>(Program)</i></i>: CTTT
-- GVHD <i>(Instructor)</i>: Nguyễn Thị Thu Trang (<i>https://soict.hust.edu.vn/ts-vu-tuyet-trinh.html</i>)
+- GVHD <i>(Instructor)</i>: Nguyễn Thị Thu Trang (<i>https://soict.hust.edu.vn/ts-nguyen-thi-thu-trang.html</i>)
 - Lịch <i>(Class Schedule)</i>: Tiết 4-6 Chiều thứ 3 (Tuần 25-32,34-42) - GĐ-B1
 
 ========================================
