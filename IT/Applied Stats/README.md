@@ -32,5 +32,6 @@ measument theory, data analysis procedure, experimental design.
 - Lịch <i>(Class Schedule)</i>: Tiết 1-4 Chiều thứ 2 (Tuần 25-32, 34-42) - GĐ-B1
 
 =====================================================================================
+
 Cách thức đánh giá môn học: TBA
 Note mỗi buổi học: TBA
