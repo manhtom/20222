@@ -1,50 +1,58 @@
-# Cơ sở dữ liệu
-<b>Database</b>
+# Kỹ năng mềm
+<b>Soft Skills</b>
 
-- Mã học phần <i>(Course ID)</i>: IT3090E
-- Khối lượng <i>(Credits)</i>: 3(2-1-1-6)-0.5
+- Mã học phần <i>(Course ID)</i>: ED3220
+- Khối lượng <i>(Credits)</i>: 2(1-2-0-2)-0.7
 - Học phần tiên quyết <i>(Prerequisite)</i>: Không <i>(None)</i>
-- Học phần học trước <i>(Pre-courses)</i>: IT3010E
+- Học phần học trước <i>(Pre-courses)</i>: Không <i>(None)</i>
 - Học phần song hành <i>(Corequisite Courses)</i>: Không <i>(None)</i>
 
 <b>
-- Mục tiêu</b>: Học phần này nhằm cung cấp cho sinh viên các khái niệm cơ bản về hệ cơ sở dữ liệu và
-những vấn đề mang tính nguyên lý của các hệ cơ sở dữ liệu; khái niệm về các mô hình dữ liệu trong
-đó đặc biệt nhấn mạnh vào mô hình dữ liệu quan hệ, các ngôn ngữ truy vấn CSDL; khai thác và sử
-dụng các hệ quản trị cơ sở dữ liệu quan hệ; các phương pháp thiết kế CSDL; một số vấn đề và kỹ thuật
-về quản trị hệ CSDL như tổ chức lưu trữ, chỉ mục, tối ưu truy vấn và đảm bảo tính toàn vẹn của dữ
-liệu. Bên cạnh đó, học phần cũng cung cấp các kỹ năng làm việc nhóm, kỹ năng phản biện, kỹ năng
-phân tích-giải quyết vấn đề thông qua làm và chữa bài tập, tổ chức các nhóm thảo luận các tình
-huống/bài toán thực tế ứng dụng các kiến thức được học trong học phần này.
+- Mục tiêu</b>: Cung cấp cho sinh viên tầm quan trọng của các kĩ năng phát triển cá nhân trong học tập,
+công việc và cuộc sống; trang bị cho sinh viên các kiến thức cốt lõi để phát triển các kĩ năng cá
+nhân; giúp sinh viên thực hành, luyện tập để cơ bản hình thành các kĩ năng phát triển cá nhân; qua
+đó, sinh viên có được thái độ nhận thức đúng đắn về nhu cầu rèn luyện các kĩ năng học tập và làm
+việc thiết yếu, thích ứng với xã hội hiện đại và thực tiễn nghề nghiệp trong tương lai.
+Các kĩ năng phát triển cá nhân bao gồm: Tìm hiểu bản thân, xác lập mục tiêu cá nhân; Phát triển tư
+duy tích cực, sáng tạo và đổi mới; Quản lý thời gian hiệu quả; Nghệ thuật giao tiếp và thuyết trình;
+Nghệ thuật thuyết phục dựa trên tâm lí; Làm việc nhóm hiệu quả.
 
-<b><font size=”2”>- Objectives</b>:  This course provides students with concepts related to database, database systems and its principles; data
-models with a focus on relational data model, database query languages; practical skills in using relational database
-management systems; database design methods; database technologies such as storage organization, indexing, query
-optimization and data integrity. The course also provides teamwork, problem-solving and practice skills through group
-discussion and presentation (during the class) and experimentation works. </font>
+<b><font size=”2”>- Objectives</b>: Students are able to:
+- Identify the importance of personal development skills at school, at work and in their life; Analyze the
+fundamental knowledge to develop personal skills; Practice the steps to basically form the personal
+development skills; Aware of the need to practice skills of studying and working adapting to modern society
+and future career.
+- Personal development skills include: Being proactive and setting personal goals; Developing positive
+thinking; Managing time effectively; Communicating (Small Talk and Big Talk, Listening Skills, Persuasion,
+Presentation); Working in a team.</font>
 
 
 <b>
-- Nội dung</b>: Các khái niệm cơ bản về CSDL, mô hình dữ liệu, ngôn ngữ dữ liệu; Thiết kế cơ sở dữ
-liệu; Tổ chức dữ liệu vật lý; Tối ưu hóa truy vấn; An toàn và toàn vẹn dữ liệu.
+- Nội dung</b>: Nhóm và làm việc nhóm: Tại sao phải làm việc nhóm; Kiến thức cơ bản về nhóm; Giới
+thiệu kỹ năng cá nhân nền tảng để làm việc theo nhóm; Giới thiệu Kỹ năng cá nhân trong phối hợp
+với các thành viên khác.
+Kỹ năng cá nhân nền tảng - Thành tích cá nhân: Tư duy tích cực; Giá trị sống; Quản lý thời gian;
+Kỹ năng cá nhân phối hợp - Thành tích tập thể: Giao tiếp hiệu quả; Thuyết trình hiệu quả; Nghệ
+thuật thuyết phục.
+Kỹ năng tổ chức tham gia hoạt động nhóm: Thành lập nhóm; Họp nhóm; Lập và theo dõi kế hoạch;
+Giải quyết các vấn đề nhóm; Đánh giá hoạt động nhóm.
 
-<b>- Content</b>: Basic concepts related to Database, Data models, Data languages; Database design; Data storage and index;
-Query Optimization, Data Integrity and Security.
+<b>- Content</b>: Team and Teamworking: Why to work in a team; Fundamental knowledge of a team; Introduction to basic personal
+skills of teamworking; Introduction to interpersonal skills in teamworking.
+24
+Basic Personal Skills – Personal Achievements: Positive Thinking; Living Values; Time-Management (Managing
+ourselves).
+Interpersonal Skills – Team Achievements: Effective Communication & Listening; Presentation; Persuasion.
+Organization Skills in Teamworking: Team Building; Meetings; Setting and Monitoring Plans; Solving Problems;
+Evaluating Teamworking.
+
 
 ========================================
-- Mã lớp <i>(Class ID)</i>: 141176
+- Mã lớp <i>(Class ID)</i>: 142907
 - Loại lớp <i>(Class Type)</i></i>: LT+BT
-- Hệ <i>(Program)</i></i>: CTTT
-- GVHD <i>(Instructor)</i>: Vũ Tuyết Trinh (<i>https://soict.hust.edu.vn/ts-vu-tuyet-trinh.html</i>)
-- Lịch <i>(Class Schedule)</i>: Tiết 1-3 Chiều thứ 3 (Tuần 25-32,34-42) - GĐ-B1
-
-========================================
-
-- Mã lớp <i>(Class ID)</i>: 727629
-- Loại lớp <i>(Class Type)</i></i>: TN
-- Hệ <i>(Program)</i></i>: CTTT
-- GVHD <i>(Instructor)</i>: Phạm Thị Phương Giang (<i>https://soict.hust.edu.vn/ths-pham-thi-phuong-giang.html</i>)
-- Lịch <i>(Class Schedule)</i>: Tiết 1-3 Sáng thứ 6 (Tuần 31,35,36,38,40) - D5-306
+- Hệ <i>(Program)</i></i>: CN
+- GVHD <i>(Instructor)</i>: Nguyễn Đắc Trung & Nguyễn Thị Hương Giang
+- Lịch <i>(Class Schedule)</i>: Tiết 1-3 Chiều thứ 6 (Tuần 25,27,29,31,35,37,39,41) - D9-101
 
 ========================================
 

@@ -1,39 +1,28 @@
-# Học máy
-<b>Machine Learning</b>
+# Đồ án I
+<b>Project I</b>
 
-- Mã học phần <i>(Course ID)</i>: IT3190E
-- Khối lượng <i>(Credits)</i>: 3(3-1-0-6)-0.6
-- Học phần tiên quyết <i>(Prerequisite)</i>: Không <i>(None)</i>
-- Học phần học trước <i>(Pre-courses)</i>: IT1110E, IT3090E, IT3010E, IT3160E
+- Mã học phần <i>(Course ID)</i>: IT3910E
+- Khối lượng <i>(Credits)</i>: 2(0-0-4-8)-0.7
+- Học phần tiên quyết <i>(Prerequisite)</i>: IT1110E
+- Học phần học trước <i>(Pre-courses)</i>: IT3010E
 - Học phần song hành <i>(Corequisite Courses)</i>: Không <i>(None)</i>
 
 <b>
-- Mục tiêu</b>: Học máy là một quá trình nhờ đó một hệ thống có thể cải thiện được hiệu năng đối với
-một công việc cụ thể thông qua kinh nghiệm. Học phần này cung cấp cho sinh viên các kiến thức
-về các khái niệm cơ bản trong học máy, các ứng dụng thành công trong thực tế, các giải thuật học
-máy cơ bản, các ưu điểm và nhược điểm của chúng, các chủ đề nâng cao, các xu hướng phát triển,
-và gợi ý các frameworks và các công cụ phần mềm hữu dụng cho học máy để sinh viên thực hành
-và sử dụng. Thông qua đồ án môn học được thực hiện theo nhóm, các sinh viên có được trải nghiệm
-thực tế về việc thiết kế, lập trình phát triển và đánh giá hiệu năng của một hệ thống học máy.
+- Mục tiêu</b>: Học phần này nhằm mục đích hệ thống hóa một số kiến thức cơ sở cốt lõi ngành, giúp sinh viên có khả năng liên kết kiến thức của một nhóm học phần để xây dựng một ứng dụng cụ thể. Ngoài ra học phần cũng giúp sinh viên phát triển các kỹ năng lập trình chuyên nghiệp (quy ước lập trình, gỡ rối, kiểm thử) cũng như các kỹ năng mềm khác (làm việc nhóm, quản lý thời gian, viết báo cáo, thuyết trình…)
 
-<b><font size=”2”>- Objectives</b>: Machine learning is a process by which a system can improve its performance on a specific task through
-experience. The course provides knowledge on core concepts in machine learning, successful applications in practice,
-traditional machine learning algorithms, their advantages and disadvantages, advanced topics, trends, and
-recommends powerful software frameworks and tools for the students' practice and use. Through a team-work course
-project, the students can get a practical experience on design, implementation and performance evaluation of a machine
-learning system.</font>
-</b>
+<b><font size=”2”>- Objectives</b>: This module aims to systematize some core background knowledge, giving students the ability to link the knowledge of a module group to build a specific application. In addition, the module also helps students develop professional programming skills (programming conventions, troubleshooting, testing) as well as other soft skills (teamwork, time management, report writing, presentation...)</font>
 
-<b>- Content</b>: Introduction of Machine learning, Supervised learning, Unsupervised learning, Reinforcement
-learning, Advanced topics in machine learning
 
+<b>- Nội dung</b>: Sử dụng ngôn ngữ lập trình C/C++/Java... cài đặt một số ứng dụng đơn giản có sử dụng các cấu trúc dữ liệu và các giải thuật từ đơn giản tới phức tạp; Viết báo cáo và thuyết trình kết quả.
+
+<b>- Content</b>: Using C/ C++/ Java... programming language to implement simple applications that use simple and complex data structures and algorithms; students are required to write a report and present the results.
 
 ========================================
-- Mã lớp <i>(Class ID)</i>: 141183
-- Loại lớp <i>(Class Type)</i></i>: LT+BT
+- Mã lớp <i>(Class ID)</i>: 727521
+- Loại lớp <i>(Class Type)</i></i>: DA
 - Hệ <i>(Program)</i></i>: CTTT
-- GVHD <i>(Instructor)</i>: Thân Quang Khoát (<i>https://soict.hust.edu.vn/ts-than-quang-khoat.html</i>)
-- Lịch <i>(Class Schedule)</i>: Tiết 1-4 Chiều thứ 4 (Tuần 25-32,34-42) - D8-106
+- GVHD <i>(Instructor)</i>: N/A
+- Lịch <i>(Class Schedule)</i>: N/A
 
 ========================================
 

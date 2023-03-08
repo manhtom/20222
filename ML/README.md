@@ -1,58 +1,39 @@
-# Kỹ năng mềm
-<b>Soft Skills</b>
+# Học máy
+<b>Machine Learning</b>
 
-- Mã học phần <i>(Course ID)</i>: ED3220
-- Khối lượng <i>(Credits)</i>: 2(1-2-0-2)-0.7
+- Mã học phần <i>(Course ID)</i>: IT3190E
+- Khối lượng <i>(Credits)</i>: 3(3-1-0-6)-0.6
 - Học phần tiên quyết <i>(Prerequisite)</i>: Không <i>(None)</i>
-- Học phần học trước <i>(Pre-courses)</i>: Không <i>(None)</i>
+- Học phần học trước <i>(Pre-courses)</i>: IT1110E, IT3090E, IT3010E, IT3160E
 - Học phần song hành <i>(Corequisite Courses)</i>: Không <i>(None)</i>
 
 <b>
-- Mục tiêu</b>: Cung cấp cho sinh viên tầm quan trọng của các kĩ năng phát triển cá nhân trong học tập,
-công việc và cuộc sống; trang bị cho sinh viên các kiến thức cốt lõi để phát triển các kĩ năng cá
-nhân; giúp sinh viên thực hành, luyện tập để cơ bản hình thành các kĩ năng phát triển cá nhân; qua
-đó, sinh viên có được thái độ nhận thức đúng đắn về nhu cầu rèn luyện các kĩ năng học tập và làm
-việc thiết yếu, thích ứng với xã hội hiện đại và thực tiễn nghề nghiệp trong tương lai.
-Các kĩ năng phát triển cá nhân bao gồm: Tìm hiểu bản thân, xác lập mục tiêu cá nhân; Phát triển tư
-duy tích cực, sáng tạo và đổi mới; Quản lý thời gian hiệu quả; Nghệ thuật giao tiếp và thuyết trình;
-Nghệ thuật thuyết phục dựa trên tâm lí; Làm việc nhóm hiệu quả.
+- Mục tiêu</b>: Học máy là một quá trình nhờ đó một hệ thống có thể cải thiện được hiệu năng đối với
+một công việc cụ thể thông qua kinh nghiệm. Học phần này cung cấp cho sinh viên các kiến thức
+về các khái niệm cơ bản trong học máy, các ứng dụng thành công trong thực tế, các giải thuật học
+máy cơ bản, các ưu điểm và nhược điểm của chúng, các chủ đề nâng cao, các xu hướng phát triển,
+và gợi ý các frameworks và các công cụ phần mềm hữu dụng cho học máy để sinh viên thực hành
+và sử dụng. Thông qua đồ án môn học được thực hiện theo nhóm, các sinh viên có được trải nghiệm
+thực tế về việc thiết kế, lập trình phát triển và đánh giá hiệu năng của một hệ thống học máy.
 
-<b><font size=”2”>- Objectives</b>: Students are able to:
-- Identify the importance of personal development skills at school, at work and in their life; Analyze the
-fundamental knowledge to develop personal skills; Practice the steps to basically form the personal
-development skills; Aware of the need to practice skills of studying and working adapting to modern society
-and future career.
-- Personal development skills include: Being proactive and setting personal goals; Developing positive
-thinking; Managing time effectively; Communicating (Small Talk and Big Talk, Listening Skills, Persuasion,
-Presentation); Working in a team.</font>
+<b><font size=”2”>- Objectives</b>: Machine learning is a process by which a system can improve its performance on a specific task through
+experience. The course provides knowledge on core concepts in machine learning, successful applications in practice,
+traditional machine learning algorithms, their advantages and disadvantages, advanced topics, trends, and
+recommends powerful software frameworks and tools for the students' practice and use. Through a team-work course
+project, the students can get a practical experience on design, implementation and performance evaluation of a machine
+learning system.</font>
+</b>
 
-
-<b>
-- Nội dung</b>: Nhóm và làm việc nhóm: Tại sao phải làm việc nhóm; Kiến thức cơ bản về nhóm; Giới
-thiệu kỹ năng cá nhân nền tảng để làm việc theo nhóm; Giới thiệu Kỹ năng cá nhân trong phối hợp
-với các thành viên khác.
-Kỹ năng cá nhân nền tảng - Thành tích cá nhân: Tư duy tích cực; Giá trị sống; Quản lý thời gian;
-Kỹ năng cá nhân phối hợp - Thành tích tập thể: Giao tiếp hiệu quả; Thuyết trình hiệu quả; Nghệ
-thuật thuyết phục.
-Kỹ năng tổ chức tham gia hoạt động nhóm: Thành lập nhóm; Họp nhóm; Lập và theo dõi kế hoạch;
-Giải quyết các vấn đề nhóm; Đánh giá hoạt động nhóm.
-
-<b>- Content</b>: Team and Teamworking: Why to work in a team; Fundamental knowledge of a team; Introduction to basic personal
-skills of teamworking; Introduction to interpersonal skills in teamworking.
-24
-Basic Personal Skills – Personal Achievements: Positive Thinking; Living Values; Time-Management (Managing
-ourselves).
-Interpersonal Skills – Team Achievements: Effective Communication & Listening; Presentation; Persuasion.
-Organization Skills in Teamworking: Team Building; Meetings; Setting and Monitoring Plans; Solving Problems;
-Evaluating Teamworking.
+<b>- Content</b>: Introduction of Machine learning, Supervised learning, Unsupervised learning, Reinforcement
+learning, Advanced topics in machine learning
 
 
 ========================================
-- Mã lớp <i>(Class ID)</i>: 142907
+- Mã lớp <i>(Class ID)</i>: 141183
 - Loại lớp <i>(Class Type)</i></i>: LT+BT
-- Hệ <i>(Program)</i></i>: CN
-- GVHD <i>(Instructor)</i>: Nguyễn Đắc Trung & Nguyễn Thị Hương Giang
-- Lịch <i>(Class Schedule)</i>: Tiết 1-3 Chiều thứ 6 (Tuần 25,27,29,31,35,37,39,41) - D9-101
+- Hệ <i>(Program)</i></i>: CTTT
+- GVHD <i>(Instructor)</i>: Thân Quang Khoát (<i>https://soict.hust.edu.vn/ts-than-quang-khoat.html</i>)
+- Lịch <i>(Class Schedule)</i>: Tiết 1-4 Chiều thứ 4 (Tuần 25-32,34-42) - D8-106
 
 ========================================
 
