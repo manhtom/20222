@@ -51,7 +51,7 @@ Evaluating Teamworking.
 - Mã lớp <i>(Class ID)</i>: 142907
 - Loại lớp <i>(Class Type)</i></i>: LT+BT
 - Hệ <i>(Program)</i></i>: CN
-- GVHD <i>(Instructor)</i>: Nguyễn Đắc Trung & Nguyễn Thị Hương Giang
+- GVHD <i>(Instructor)</i>: Nguyễn Thị Hương Giang & Nguyễn Đắc Trung
 - Lịch <i>(Class Schedule)</i>: Tiết 1-3 Chiều thứ 6 (Tuần 25,27,29,31,35,37,39,41) - D9-101
 
 ========================================
