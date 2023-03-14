@@ -60,7 +60,7 @@ quality of students to adapt to future careers in the current technology context
 - Mã lớp <i>(Class ID)</i>: 142893
 - Loại lớp <i>(Class Type)</i></i>: LT+BT
 - Hệ <i>(Program)</i></i>: CN
-- GVHD <i>(Instructor)</i>: Nguyễn Tiến Long & Nguyễn Văn Hạnh
+- GVHD <i>(Instructor)</i>: Nguyễn Văn Hạnh & Nguyễn Tiến Long
 - Lịch <i>(Class Schedule)</i>: Tiết 1-3 Chiều thứ 5 (Tuần 26,28,30,32,34,36,38,40,42) - D9-101
 
 ========================================
