@@ -14,4 +14,4 @@
 - <b>PE2251</b> <i>[0(0-2-0-2)-1.0]</i>: Taekwondo 1
 
 <b>Note</b>:
-Basic structure of a folder for a class: Slides, Docs, Practice, Homework (to be further updated)
+Basic structure of a folder for a class: Session Note, Slides, Docs, Practice, Homework, Reference (to be further updated). Teams code for each class will also be updated
