@@ -37,6 +37,7 @@ Query Optimization, Data Integrity and Security.
 - Hệ <i>(Program)</i></i>: CTTT
 - GVHD <i>(Instructor)</i>: Vũ Tuyết Trinh (<i>https://soict.hust.edu.vn/ts-vu-tuyet-trinh.html</i>)
 - Lịch <i>(Class Schedule)</i>: Tiết 1-3 Chiều thứ 3 (Tuần 25-32,34-42) - GĐ-B1
+- Mã truy cập lớp <i>(Teams class code)</i>: w24gyyn
 
 ========================================
 
