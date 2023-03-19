@@ -21,7 +21,7 @@
 - Mã lớp <i>(Class ID)</i>: 727521
 - Loại lớp <i>(Class Type)</i></i>: DA
 - Hệ <i>(Program)</i></i>: CTTT
-- GVHD <i>(Instructor)</i>: N/A
+- GVHD <i>(Instructor)</i>: Trần Vĩnh Đức <i>(https://soict.hust.edu.vn/ts-tran-vinh-duc.html)</i>
 - Lịch <i>(Class Schedule)</i>: N/A
 
 ========================================
