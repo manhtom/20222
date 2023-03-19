@@ -32,6 +32,12 @@ liệu; Tổ chức dữ liệu vật lý; Tối ưu hóa truy vấn; An toàn v
 Query Optimization, Data Integrity and Security.
 
 ========================================
+
+Cách thức đánh giá:
+- Quá trình (50%): Làm 2 bài kiểm tra (tuần 30 & 38) (60%) - Thực hành (30%) - Bài tập được giao (10%)
+- Thi kết thúc (50%): Thi trên phòng máy
+
+========================================
 - Mã lớp <i>(Class ID)</i>: 141176
 - Loại lớp <i>(Class Type)</i></i>: LT+BT
 - Hệ <i>(Program)</i></i>: CTTT
@@ -47,7 +53,4 @@ Query Optimization, Data Integrity and Security.
 - GVHD <i>(Instructor)</i>: Phạm Thị Phương Giang (<i>https://soict.hust.edu.vn/ths-pham-thi-phuong-giang.html</i>)
 - Lịch <i>(Class Schedule)</i>: Tiết 1-3 Sáng thứ 6 (Tuần 31,35,36,38,40) - D5-306
 
-========================================
 
-Cách thức đánh giá môn học: TBA
-Note mỗi buổi học: TBA
