@@ -27,6 +27,11 @@ learning system.</font>
 <b>- Content</b>: Introduction of Machine learning, Supervised learning, Unsupervised learning, Reinforcement
 learning, Advanced topics in machine learning
 
+========================================
+
+Cách thức đánh giá:
+- Quá trình (40%): Làm capstone project
+- Thi kết thúc (60%): Thi trên phòng máy
 
 ========================================
 - Mã lớp <i>(Class ID)</i>: 141183
@@ -35,7 +40,4 @@ learning, Advanced topics in machine learning
 - GVHD <i>(Instructor)</i>: Thân Quang Khoát (<i>https://soict.hust.edu.vn/ts-than-quang-khoat.html</i>)
 - Lịch <i>(Class Schedule)</i>: Tiết 1-4 Chiều thứ 4 (Tuần 25-32,34-42) - D8-106
 
-========================================
 
-Cách thức đánh giá môn học: TBA
-Note mỗi buổi học: TBA
