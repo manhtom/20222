@@ -1,0 +1,72 @@
+
+Query 1: Get names of all employees in department 5 who work more than 10 hours/week on the ProductX project.
+
+  answer(F,M,L) :- 
+    employee(F,M,L,S,_,_,_,_,_,5),
+    works_on(S,P,H),
+    projects('ProductX',P,_,_),
+    H >= 10. 
+
+Query 2: Get names of all employees who have a dependent with the same first name as their own first names.
+
+  answer(F,M,L) :- 
+    employee(F,M,L,S,_,_,_,_,_,_), 
+    dependent(S,F,_,_,_).
+
+Query 3: Get the names of all employees who are directly supervised by Franklin Wong.
+
+  answer(F,M,L) :- 
+    employee(F,M,L,_,_,_,_,_,S,_),
+    employee('Franklin',_,'Wong',S,_,_,_,_,_,_).
+
+Query 4: Get the names of all employees who work on every project.
+
+  temp1(S,P) :- 
+    employee(_,_,_,S,_,_,_,_,_,_), 
+    projects(_,P,_,_).
+  temp2(S,P) :- 
+    works_on(S,P,_).
+  temp3(S) :- 
+    temp1(S,P), not temp2(S,P).
+  answer(F,M,L) :- 
+    employee(F,M,L,S,_,_,_,_,_,_), not temp3(S).
+ 
+Query 5: Get the names of employees who do not work on any project.
+
+  temp1(S) :- 
+    works_on(S,_,_).
+  answer(F,M,L) :- 
+    employee(F,M,L,S,_,_,_,_,_,_), not temp1(S).
+
+Query 6: Get the names and addresses of employees who work for at least one project located in Houston but whose department does not have a location in Houston.
+
+  temp1(S) :- 
+    works_on(S,P,_), project(_,P,'Houston',_).
+  temp2(S) :- 
+    employee(_,_,_,S,_,_,_,_,_,D), 
+    not dept_locations(D,'Houston'). 
+  answer(F,M,L,A) :- 
+    employee(F,M,L,S,_,A,_,_,_,_), temp1(S), temp2(S).
+
+Query 7: Get the names and addresses of employees who work for at least one project located in Houston or whose department does not have a location in Houston. (Note: this is a slight variation of the previous query with 'but' replaced by 'or').
+
+  temp1(S) :- 
+    works_on(S,P,_), 
+    project(_,P,'Houston',_).
+  temp2(S) :- 
+    employee(_,_,_,S,_,_,_,_,_,D), 
+    not dept_locations(D,'Houston'). 
+  answer(F,M,L,A) :- 
+    employee(F,M,L,S,_,A,_,_,_,_), temp1(S).
+  answer(F,M,L,A) :- 
+    employee(F,M,L,S,_,A,_,_,_,_), temp2(S).
+
+Query 8: Get the last names of all department managers who have no dependents.
+
+temp1(S) :- 
+  dependent(S,_,_,_,_).
+answer(L) :- 
+  employee(_,_,L,S,_,_,_,_,_,_),
+  department(_,_,S,_),
+  not temp1(S).
+

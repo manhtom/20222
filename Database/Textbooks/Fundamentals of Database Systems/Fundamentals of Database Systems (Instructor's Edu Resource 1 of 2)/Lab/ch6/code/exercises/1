@@ -1,0 +1,38 @@
+public class Security {   
+  // Attribute Data members   
+  private String symbol;   
+  private String companyName;   
+  private float currentPrice;   
+  private float askPrice;   
+  private float bidPrice;   
+  // Relationship Data Members
+  // Set of transactions for this security   
+  private Vector<Transaction> transactions;
+}
+
+      public class Member {   
+        // Attribute Data members   
+        private String mid;   
+        private String password;   
+        private String fname;   
+        private String lname;   
+        private String address;   
+        private String email;   
+        private double cashBalance;   
+        // Relationship Data Members   
+        // Set of transactions for this member
+        private Vector<Transaction> transactions;
+      }
+
+      public class Transaction {   
+        // Attribute Data members   
+        private Date transDate;   
+        private String transType; // Buy or Sell   
+        private float quantity;   
+        private float pricePerShare;   
+        private float commission;   
+        // Relationship Data Members   
+        private Member member; // member for this transaction   
+        private Security security; // security for this transaction 
+}
+

@@ -1,0 +1,23 @@
+public class State {   
+  // Attribute Data members   
+  private String stateCode;   
+  private String stateName;
+  private String nickname;
+  private int population;    
+  // Relationship Data Members
+  // Capital city
+  private City capitalCity;
+  // Set of cities   
+  private Vector<City> cities;
+}
+
+public class City {
+  // Attribute Data members
+  private String cityCode;
+  private String cityName;
+  // Relationship Data Members
+  // State city lelongs to
+  private State state;
+}
+
+

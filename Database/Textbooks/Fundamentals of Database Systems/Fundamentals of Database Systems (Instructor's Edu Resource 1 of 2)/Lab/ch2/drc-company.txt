@@ -1,0 +1,40 @@
+Query 0: Retrieve the birthdate and address of the employees whose name is "John B. Smith".
+
+{ u,v | (exists t,w,x,y,z)(
+            employee('John','B','Smith',t,u,v,w,x,y,z) ) }
+
+Query 1: Retrieve the name and address of all employees who work for the "Research"
+department.
+
+{ q,s,v | (exists r,t,u,w,x,y,z,n,o)(
+            employee(q,r,s,t,u,v,w,x,y,z) and 
+            department('Research',z,n,o) ) }
+
+Query 2: For every project located in "Stafford", list the project number, the 
+controlling department number, and the department manager's last name, 
+birth date, and address.
+
+{ i,k,s,u,v | (exists h,q,r,t,w,x,y,z,l,o)(
+                projects(h,i,'Stafford',k) and 
+                employee(q,r,s,t,u,v,w,x,y,z) and 
+                department(l,k,t,o) ) }
+
+Query 6: List the names of employees who have no dependents.
+
+{ q,s | (exists r,t,u,v,w,x,y,z)(
+          employee(q,r,s,t,u,v,w,x,y,z) and 
+          not ((exists m,n,o,p)(dependent(t,m,n,o,p))) ) }
+
+The following is not SAFE and would not work
+
+{ q,s | (exists r,t,u,v,w,x,y,z)(
+          employee(q,r,s,t,u,v,w,x,y,z) and 
+         (forall l,m,n,o,p)(not (dependent(l,m,n,o,p)) or t<>l) )}
+
+Query 7: List the names of managers who have at least one dependent.
+
+{ s,q | (exists r,t,u,v,w,x,y,z,h,i,k,m,n,o,p)(
+           employee(q,r,s,t,u,v,w,x,y,z) and 
+           department(h,i,t,k) and
+           dependent(t,m,n,o,p) ) }
+

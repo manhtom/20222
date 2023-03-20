@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+
+    <context-param>
+       <param-name>db4oFileName</param-name>
+       <param-value>company.db4o</param-value>
+   </context-param>
+
+   <listener>
+       <listener-class>Db4oServletContextListener</listener-class>
+   </listener>
+
+    <servlet>
+        <servlet-name>DisplayDepartment</servlet-name>
+        <servlet-class>DisplayDepartment</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>DisplayDepartment</servlet-name>
+        <url-pattern>/DisplayDepartment</url-pattern>
+    </servlet-mapping>
+
+    <session-config>
+        <session-timeout>30</session-timeout>
+    </session-config>
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+</web-app>

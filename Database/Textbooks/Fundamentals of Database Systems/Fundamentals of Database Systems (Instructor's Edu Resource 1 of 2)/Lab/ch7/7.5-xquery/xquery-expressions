@@ -1,0 +1,166 @@
+let $d:=doc("/Users/raj/company.xml")
+return $d//companyDB/employees/employee[2]
+
+(2*3)-(8*7)
+
+concat("Hello"," World")
+
+matches("Monday","^.*da.*$")
+
+current-time()
+
+let $list:=(1,5,10,12,15)
+return count($list)
+
+let $d:=doc("/Users/raj/company.xml")
+return $d//companyDB/employees/employee[2]
+
+<item ino=”222”><iname>Nut</iname><price>22.50</price></item>
+
+let $d:=doc("/Users/raj/company.xml")//employee[@worksFor=6]
+return 
+  <dept6Salary>{$d/salary}
+  </dept6Salary>
+
+FLWOR Queriesions
+-----------------
+
+Query 1: Get all projects.
+
+let $d:=doc("/Users/raj/company.xml")
+for $p in $d/companyDB/projects/project
+return $p
+
+Query 2: Get distinct project numbers of projects in which employees work.
+
+<projects>
+{
+let $d:=doc("/Users/raj/company.xml")
+for $p in distinct-values(
+        $d/companyDB/employees/employee/projects/worksOn/@pno)
+return 
+<project>{$p}</project>
+}
+</projects>
+
+using order by clause
+---------------------
+
+<projects>
+{
+let $d:=doc("/Users/raj/company.xml")
+for $p in distinct-values(
+            $d/companyDB/employees/employee/projects/worksOn/@pno)
+order by number($p)
+return 
+<project>{$p}
+</project>
+}
+</projects>
+
+Query 3: Get social security numbers of employees whose last name 
+starts with "S".
+
+let $d:=doc("/Users/raj/company.xml")
+for $e in $d/companyDB/employees/employee
+where starts-with($e/lname,"S")
+return <sssn>{$e/@ssn}</sssn>	
+
+Query 4: Get last names and first names of employees in 
+the "Research" department.
+
+let $d:=doc("/Users/raj/company.xml")
+let $r:=$d/companyDB/departments/department[dname="Research"]
+for $e in $d/companyDB/employees/employee
+where $e/@worksFor=$r/@dno
+return
+<ResearchEmp>{$e/lname}{$e/fname}</ResearchEmp>
+
+Query 5: Get employees who work more than 40 hours.
+
+let $d:=doc("/Users/raj/company.xml")
+for $e in $d/companyDB/employees/employee
+where sum($e/projects/worksOn/@hours)>40.0
+return
+<OverWorkedEmp>{$e/lname}
+{$e/fname}<TotalHours>{sum($e/projects/worksOn/@hours)}
+</TotalHours>
+</OverWorkedEmp>
+
+Query 6: Get department names and the total number of employees 
+working in the department.
+
+let $d:=doc("/Users/raj/company.xml")
+for $r in $d/companyDB/departments/department
+return
+<deptNumEmps>{$r/dname}
+<numEmps>{count(tokenize($r/employees/@essns,"\s+"))}
+</numEmps>
+</deptNumEmps>
+
+Query 7: Get last names of employees who work for a project 
+located in “Houston”.
+
+<empsWorkingOnHoustonProjects>
+{
+distinct-values(
+let $d:=doc("/Users/raj/company.xml")
+for $r in $d/companyDB/projects/project[plocation="Houston"]
+return
+ for $e in $d/companyDB/employees/employee
+ where exists(index-of($r/workers/worker/@essn,$e/@ssn))
+ return $e/lname
+)
+}
+</empsWorkingOnHoustonProjects>
+
+Query 8: Get last names of employees with dependents.
+
+let $d:=doc("/Users/raj/company.xml")
+for $e in $d/companyDB/employees/employee[dependents]
+return $e/lname
+
+Query 9: Get last names of employees without dependents.
+
+let $d:=doc("/Users/raj/company.xml")
+let $empsWithDeps := $d/companyDB/employees/employee[dependents]
+for $e in $d/companyDB/employees/employee
+where empty(index-of($empsWithDeps,$e))
+return $e/lname
+
+Query 10: get last names of employees from Milwaukee along with their 
+income group: “Low Income Group” (earning < 40000), “Middle Income Group” 
+(earning between 40000 and 60000), and “High Income Group” (earning more 
+than 80000).
+
+<IncomeGroup>
+{
+let $d:=doc("E:/company.xml")
+for $e in 
+  $d/companyDB/employees/employee[contains(address,"Milwaukee")]
+return
+<emp>{$e/lname}
+<income>
+{if  ($e/salary >= 80000) then "High Income"
+else if ($e/salary >=60000) then "Middle Income"
+else "Low Income" 
+}
+</income>
+</emp>
+}
+</IncomeGroup>
+
+Query 11: Get employee names of employees who work on all projects 
+located in “Houston”.
+
+let $d:=doc("/Users/raj/company.xml")
+let $houstonProjs :=
+ $d/companyDB/projects/project[plocation="Houston"]
+for $e in $d/companyDB/employees/employee
+where every $p in $houstonProjs satisfies
+  (some $q in $e/projects/worksOn satisfies
+    $p/@pnumber = $q/@pno)
+return concat($e/fname,", ",$e/lname)
+
+
+

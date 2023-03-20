@@ -1,0 +1,18 @@
+There are two files for each table in this directory. For example for the
+DEPARTMENT table the two files are: 
+
+<ol>
+<li> department.csv: contains comma separated data values.
+<li> department.ctl: contains Oracle SQL*Loader LOAD command.
+</ol>
+
+<P>
+Other files found in this directory are:
+<ol>
+<li>company-schema.sql: SQL commands to create all tables. Note: To facilitate bulk
+loading no constraints are enforced.
+<li>load-oracle.sh: contains the sqlldr commands to load data for all tables.
+This script file can be executed from a Unix shell.
+<li>drop.sql: SQL commands to drop all tables.
+</ol>
+

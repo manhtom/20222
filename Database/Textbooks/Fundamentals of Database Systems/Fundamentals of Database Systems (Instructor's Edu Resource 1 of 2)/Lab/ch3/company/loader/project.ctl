@@ -1,0 +1,6 @@
+LOAD DATA
+INFILE project.csv
+APPEND INTO TABLE project
+FIELDS TERMINATED BY ','  OPTIONALLY ENCLOSED BY '"'
+TRAILING NULLCOLS
+(pname,pnumber,plocation,dnum)

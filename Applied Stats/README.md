@@ -24,14 +24,17 @@ measurement theory.</font>
 <b>- Content</b>: basics of probability, basics of statistics, elements of stochastic processes, statistical errors, elements of
 measument theory, data analysis procedure, experimental design.
 
+========================================
+
+Cách thức đánh giá: (Note: trong slide mr.Giang cung cấp ghi phân phối là 0.3-0.7 song sis.hust.edu vẫn là nguồn chính xác nhất)
+- Quá trình (40%): Mini-project/Bài tập/Kiểm tra giữa kỳ
+- Thi kết thúc (60%): Thi tự luận trên giấy
+
 =====================================================================================
+
 - Mã lớp <i>(Class ID)</i>: 141179
 - Loại lớp <i>(Class Type)</i></i>: LT+BT
 - Hệ <i>(Program)</i></i>: CTTT
 - GVHD <i>(Instructor)</i>: Nguyễn Linh Giang (<i>https://soict.hust.edu.vn/pgs-ts-nguyen-linh-giang.html</i>)
 - Lịch <i>(Class Schedule)</i>: Tiết 1-4 Chiều thứ 2 (Tuần 25-32, 34-42) - GĐ-B1
-
-=====================================================================================
-
-Cách thức đánh giá môn học: TBA
-Note mỗi buổi học: TBA
+- Mã truy cập lớp <i>(Teams class code)</i>: 2e83j0g

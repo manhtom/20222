@@ -1,0 +1,86 @@
+<html>
+<head>
+<TITLE>Fundamentals of Database Systems Laboratory Book - 2nd Edition - Chapter 2</TITLE>
+<style type="text/css">
+a { text-decoration: none }a:hover  {text-decoration: none;
+color: red;
+background-color: #ccffcc;
+font-family: helvetica, sans-serif, arial;
+font-size: 16pts  }
+h1 {font-family: helvetica, sans-serif, arial;
+color: #000080;
+background-color: #EECFA1;width: 20em}
+h2 {font-family: helvetica, sans-serif, arial;
+color: #000080;
+background-color: #EECFA1; width: 20em }
+.special {fontsize: 1.5em;
+color: blue }
+</style></head>
+<body bgcolor="#8AD6EB"alink="#0000CC"link="#0000CC"text="#000000"vlink="#0000CC">
+
+<center>
+<h3>Chapter 2 - Abstract Query Languages (RA, DRC, and DLOG Interpreters) </h3>
+</center>
+
+<h3>Laboratory Manual Chapter</h3>
+
+<ul>
+<li><a href="ch2.pdf">Chapter 2 (pdf)</a>
+</ul>
+
+<h3>Abstract Query Language Interpreters - Java jar file</h3>
+
+<ul>
+<li><a href="aql.jar">aql.jar</a>
+</ul>
+Note: This jar file includes the dbengine as well as the three
+interpreters (RA, DRC, and DLOG) along with the Java CUP libraries.
+To install the package on Unix systems: 
+Simply place the jar file in an accessible location on disk
+(say, /usr/local/lib/aql.jar) and add them to CLASSPATH
+variable (assuming CLASSPATH is already defined) as follows:
+<pre>
+setenv CLASSPATH /usr/local/lib/aql.jar:$CLASSPATH
+</pre>
+or
+<pre>
+export CLASSPATH=/usr/local/lib/aql.jar:$CLASSPATH
+</pre>
+depending on your shell.
+
+<P>
+To install the packages on Windows systems: 
+Simply place the jar file in an accessible location on disk
+(say, c:\elna-lab\ch2\aql.jar) and add the file
+path to the CLASSPATH environment variable by opening up the CONTROL PANEL, choosing 
+the SYSTEM folder, choosing the ADVANCED TAB, and clicking the ENVIRONMENT VARIABLES
+button. If the CLASSPATH is already defined, simply add the file path to the
+current value (note: the file paths are separated by semi-colons). If the CLASSPATH is not
+defined, use the NEW button to add the new variable CLASSPATH with its value as
+<pre>
+c:\elna-lab\ch2\aql.jar;.
+</pre>
+
+<h3>Sample Queries</h3>
+<ul>
+<li><a href="ra-company.txt">Relational Algebra (RA) Queries - Company database</a>
+<li><a href="drc-company.txt">Domain Relational Calculus (DRC) Queries - Company database</a>
+<li><a href="dlg-company.txt">Datalog (DLOG) Queries - Company database</a>
+</ul>
+
+<h3>Sample Databases (Directories)</h3>
+<ul>
+<li><a href="company">Company database 
+(For Laboratory Exercise 6.34 of Elmasri/Navathe text)</a>
+<li><a href="db516">Student Enrollment and Course Textbook database
+(For Laboratory Exercise 6.38 of Elmasri/Navathe text)</a>
+<li><a href="gradebook">Grade Book database
+(For Laboratory Exercise 6.36 of Elmasri/Navathe text)</a>
+<li><a href="mailorder">Mail Order database
+(For Laboratory Exercise 6.35 of Elmasri/Navathe text)</a>
+<li><a href="spj">Suppliers-Parts-Projects database 
+(For Laboratory Exercise 6.37 of Elmasri/Navathe text)</a>
+</ul>
+
+</body>
+</html>
