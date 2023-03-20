@@ -39,5 +39,10 @@ Cách thức đánh giá:
 - Hệ <i>(Program)</i></i>: CTTT
 - GVHD <i>(Instructor)</i>: Thân Quang Khoát (<i>https://soict.hust.edu.vn/ts-than-quang-khoat.html</i>)
 - Lịch <i>(Class Schedule)</i>: Tiết 1-4 Chiều thứ 4 (Tuần 25-32,34-42) - D8-106
+- Mã truy cập lớp <i>(Teams class code)</i>: 5w8vzys
+- Bài giảng tự học trên YouTube: https://www.youtube.com/watch?v=jc1wo_8VA1w&list=PLaKukjQCR56ZRh2cAkweftiZCF2sTg11_&index=1
+
+
+
 
 
