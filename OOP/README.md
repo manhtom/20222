@@ -47,11 +47,20 @@ course, students will be asked to work individually with a case study in 05 hand
 
 
 ========================================
+
+
+Cách thức đánh giá môn học:
+- Quá trình (50%): Mini-project + Thực hành lab
+- Thi kết thúc (50%): Thi tự luận trên giấy
+
+========================================
+
 - Mã lớp <i>(Class ID)</i>: 141177
 - Loại lớp <i>(Class Type)</i></i>: LT+BT
 - Hệ <i>(Program)</i></i>: CTTT
 - GVHD <i>(Instructor)</i>: Nguyễn Thị Thu Trang (<i>https://soict.hust.edu.vn/ts-nguyen-thi-thu-trang.html</i>)
 - Lịch <i>(Class Schedule)</i>: Tiết 4-6 Chiều thứ 3 (Tuần 25-32,34-42) - GĐ-B1
+- Mã truy cập lớp <i>(Teams class code)</i>: bvpg5xk
 
 ========================================
 
@@ -60,8 +69,3 @@ course, students will be asked to work individually with a case study in 05 hand
 - Hệ <i>(Program)</i></i>: CTTT
 - GVHD <i>(Instructor)</i>: Nguyễn Thanh Hùng (<i>https://soict.hust.edu.vn/ts-nguyen-thanh-hung.html</i>)
 - Lịch <i>(Class Schedule)</i>: Tiết 1-3 Sáng thứ 4 (Tuần 28,30,32,34,37) - D5-306
-
-========================================
-
-Cách thức đánh giá môn học: TBA
-Note mỗi buổi học: TBA
