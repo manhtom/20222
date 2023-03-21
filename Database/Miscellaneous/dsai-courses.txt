@@ -1,0 +1,6 @@
+CourseID, CourseName, NoofCredits, NoofPeriods, FinalRatio
+
+('SSH1111','Triet hoc Mac - Lenin',3,3,0.5)
+('SSH1121','Kinh te chinh tri Mac - Lenin',2,3,0.5)
+('SSH1121','Kinh te chinh tri Mac - Lenin',2,3,0.5)
+
