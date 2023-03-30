@@ -30,7 +30,7 @@ Cách thức đánh giá: (Note: trong slide mr.Giang cung cấp ghi phân phố
 - Quá trình (40%): Mini-project/Bài tập/Kiểm tra giữa kỳ
 - Thi kết thúc (60%): Thi tự luận trên giấy
 
-=====================================================================================
+========================================
 
 - Mã lớp <i>(Class ID)</i>: 141179
 - Loại lớp <i>(Class Type)</i></i>: LT+BT
