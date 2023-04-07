@@ -18,13 +18,13 @@
 <b>- Content</b>: Using C/ C++/ Java... programming language to implement simple applications that use simple and complex data structures and algorithms; students are required to write a report and present the results.
 
 ========================================
-- Mã lớp <i>(Class ID)</i>: 727521
-- Loại lớp <i>(Class Type)</i></i>: DA
-- Hệ <i>(Program)</i></i>: CTTT
-- GVHD <i>(Instructor)</i>: Trần Vĩnh Đức <i>(https://soict.hust.edu.vn/ts-tran-vinh-duc.html)</i>
-- Lịch <i>(Class Schedule)</i>: N/A
+
+Cách thức đánh giá môn học: TBA
 
 ========================================
 
-Cách thức đánh giá môn học: TBA
-Note mỗi buổi học: TBA
+- Mã lớp <i>(Class ID)</i>: 727521
+- Loại lớp <i>(Class Type)</i></i>: DA
+- Hệ <i>(Program)</i></i>: CTTT
+- GVHD <i>(Instructor)</i>: Trần Quang Đức <i>(https://soict.hust.edu.vn/ts-tran-quang-duc.html)</i>
+- Lịch <i>(Class Schedule)</i>: bắt đầu từ tuần 3
