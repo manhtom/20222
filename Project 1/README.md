@@ -21,7 +21,7 @@
 
 Cách thức đánh giá môn học: 
 
-- Lập trình phát triển một ứng dụng nhất định theo đề tài được phân công theo nhóm 2 người (có đánh giá chéo giữa các nhóm), báo cáo kết quả thường xuyên và bảo vệ bài tập lớn vào cuối kì.
+- Lập trình phát triển một ứng dụng nhất định theo đề tài được phân công theo nhóm 2 người (có đánh giá chéo giữa các nhóm), báo cáo tiến độ thường xuyên và trình bày kết quả vào cuối kì.
 
 ========================================
 
