@@ -48,13 +48,14 @@ Evaluating Teamworking.
 
 
 ========================================
+
+Cách thức đánh giá môn học:
+- Quá trình (30%): Luyện tập trắc nghiệm trên LMS (33%) + Đánh giá kĩ năng cá nhân trong các buổi học trên giảng đường (67%)
+- Thi kết thúc (70%): Đánh giá kĩ năng làm việc nhóm qua bài tập nhóm và lan tỏa của cá nhân (50%) + Thi trắc nghiệm viết (50%)
+
+========================================
 - Mã lớp <i>(Class ID)</i>: 142907
 - Loại lớp <i>(Class Type)</i></i>: LT+BT
 - Hệ <i>(Program)</i></i>: CN
 - GVHD <i>(Instructor)</i>: Nguyễn Thị Hương Giang & Nguyễn Đắc Trung
 - Lịch <i>(Class Schedule)</i>: Tiết 1-3 Chiều thứ 6 (Tuần 25,27,29,31,35,37,39,41) - D9-101
-
-========================================
-
-Cách thức đánh giá môn học: TBA
-Note mỗi buổi học: TBA
