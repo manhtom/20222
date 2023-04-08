@@ -19,7 +19,7 @@
 
 ========================================
 
-Cách thức đánh giá môn học: TBA
+Cách thức đánh giá môn học: Lập trình phát triển một ứng dụng nhất định theo đề tài được phân công theo nhóm 2 người về lập trình an toàn trong Java (có đánh giá chéo giữa các nhóm), báo cáo kết quả thường xuyên và bảo vệ bài tập lớn vào cuối kì.
 
 ========================================
 
