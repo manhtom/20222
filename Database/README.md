@@ -34,7 +34,7 @@ Query Optimization, Data Integrity and Security.
 ========================================
 
 Cách thức đánh giá: (có thể thay đổi)
-- Quá trình (50%): Làm 2 bài kiểm tra (tuần 30 & 38) (60%) + Thực hành (30%) + Bài tập được giao (10%)
+- Quá trình (50%): Làm 2 bài kiểm tra (tuần 30 & 38) (60%) + Thực hành trên lab (30%) + Bài tập được giao (10%)
 - Thi kết thúc (50%): Thi trên phòng máy
 
 ========================================
