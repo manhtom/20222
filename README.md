@@ -1,5 +1,5 @@
 # 20222
-20/03/2023-23/07/2023 (midterm 15-21/05). everything in 4th semester @ "dau hang cong nghe VN"
+20/03/2023-23/07/2023 (midterm break 15-21/05). everything in 4th semester @ "dau hang cong nghe VN"
 
 <b>IT classes</b>
 - <b>IT2022E</b> <i>[3(3-1-0-6)-0.6]</i>: Applied Statistics and Experimental Design
