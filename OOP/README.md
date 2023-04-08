@@ -50,7 +50,7 @@ course, students will be asked to work individually with a case study in 05 hand
 
 
 Cách thức đánh giá môn học:
-- Quá trình (50%): Mini-project + Thực hành lab
+- Quá trình (50%): Mini-project + Thực hành trên lab
 - Thi kết thúc (50%): Thi tự luận trên giấy
 
 ========================================

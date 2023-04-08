@@ -55,6 +55,11 @@ Career personality; Personality type characteristics of students with learning a
 personality structure; Creative thinking developing, creative capacity of technical laborers; Required capacity and
 quality of students to adapt to future careers in the current technology context.
 
+========================================
+
+Cách thức đánh giá môn học:
+- Quá trình (30%): Bài tập cá nhân trên LMS + Bài tập nhóm
+- Thi kết thúc (70%): Thi trắc nghiệm kết hợp tự luận
 
 ========================================
 - Mã lớp <i>(Class ID)</i>: 142893
@@ -62,8 +67,3 @@ quality of students to adapt to future careers in the current technology context
 - Hệ <i>(Program)</i></i>: CN
 - GVHD <i>(Instructor)</i>: Nguyễn Văn Hạnh
 - Lịch <i>(Class Schedule)</i>: Tiết 1-3 Chiều thứ 5 (Tuần 26,28,30,32,34,36,38,40,42) - D9-101
-
-========================================
-
-Cách thức đánh giá môn học: TBA
-Note mỗi buổi học: TBA
