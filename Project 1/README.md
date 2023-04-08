@@ -19,7 +19,9 @@
 
 ========================================
 
-Cách thức đánh giá môn học: Lập trình phát triển một ứng dụng nhất định theo đề tài được phân công theo nhóm 2 người về lập trình an toàn trong Java (có đánh giá chéo giữa các nhóm), báo cáo kết quả thường xuyên và bảo vệ bài tập lớn vào cuối kì.
+Cách thức đánh giá môn học: 
+
+- Lập trình phát triển một ứng dụng nhất định theo đề tài được phân công theo nhóm 2 người về lập trình an toàn trong Java (có đánh giá chéo giữa các nhóm), báo cáo kết quả thường xuyên và bảo vệ bài tập lớn vào cuối kì.
 
 ========================================
 
@@ -27,4 +29,4 @@ Cách thức đánh giá môn học: Lập trình phát triển một ứng dụ
 - Loại lớp <i>(Class Type)</i></i>: DA
 - Hệ <i>(Program)</i></i>: CTTT
 - GVHD <i>(Instructor)</i>: Trần Quang Đức <i>(https://soict.hust.edu.vn/ts-tran-quang-duc.html)</i>
-- Lịch <i>(Class Schedule)</i>: bắt đầu từ tuần 3
+- Lịch <i>(Class Schedule)</i>: 7h-9h Sáng thứ 7 (Tuần 28-42) - B1-302 <i>(subject to change)</i>
