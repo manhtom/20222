@@ -1,4 +1,4 @@
-# Đồ án I
+# Đồ án I (Lập trình an toàn trong Java)
 <b>Project I</b>
 
 - Mã học phần <i>(Course ID)</i>: IT3910E
