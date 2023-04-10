@@ -8,8 +8,7 @@ public class MonthinYear {
         while (true){ // variables defined in while cannot be used outside the loop
             String montht=JOptionPane.showInputDialog(null, "Please enter the month");
             String yeart=JOptionPane.showInputDialog(null, "Please enter the year");
-            int m1=0;
-            m1=Check.Month(montht);
+            int m1=Check.Month(montht);
             if (m1!=0 && Check.Year(yeart)){ 
                 y=Integer.parseInt(yeart);
                 m=m1;
