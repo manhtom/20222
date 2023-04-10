@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.util.*;
 
-public class Eqn{
+public class Equation{
     public static void main(String[] args){
         String option="";
         while (option.equals("1") == false && option.equals("2") == false && option.equals("3") == false){
