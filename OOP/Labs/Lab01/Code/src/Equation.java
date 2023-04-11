@@ -66,13 +66,13 @@ public class Equation{
         double c=Double.parseDouble(JOptionPane.showInputDialog(null,"Please enter the third coefficient: "));
         double delta=Math.pow(b,2)-4*a*c; //math.pow chu deo phai math.exp nhe (exp la e roi :)). math.power operates in double mode
         if (delta<0){
-            return "No solution";
+            return "No real roots";
         }
         else if (delta==0){
-            return "Double solution: "+String.format("%.2f",-b/(2*a));
+            return "Double root: "+String.format("%.2f",-b/(2*a));
         }
         else{
-            return "Two unique solutions: "+String.format("(%.2f, %.2f)",(-b+Math.sqrt(delta))/(2*a), (-b-Math.sqrt(delta))/(2*a));
+            return "Two unique roots: "+String.format("(%.2f, %.2f)",(-b+Math.sqrt(delta))/(2*a), (-b-Math.sqrt(delta))/(2*a));
         }
 
     }
