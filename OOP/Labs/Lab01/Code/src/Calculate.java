@@ -13,6 +13,5 @@ public class Calculate {
         JOptionPane.showMessageDialog(null, "The difference of 2 double number is "+hieu);
         JOptionPane.showMessageDialog(null, "The product of 2 double number is "+tich);
         JOptionPane.showMessageDialog(null, "The quotient of 2 double number is "+thuong);
-
     }
 }
