@@ -1,4 +1,4 @@
-public class Check {
+public class MYCheck {
     public static boolean LeapYear(int y){
         if ((y % 4 == 0 && y % 100 != 0) || (y % 400 == 0)){
             return true;
@@ -7,8 +7,13 @@ public class Check {
     }
     public static boolean Year(String y){
         try{
-            Integer.parseInt(y);
+            int test=Integer.parseInt(y); //check if it's a integer
+            if (test>=0){ //check if the number is non-negatice
             return true;
+            }
+            else{
+                return false;
+            }
         }
         catch (NumberFormatException n){
             return false;
@@ -42,7 +47,7 @@ public class Check {
         else if (m.equals("Sep") || m.equals("Sep.") || m.equals("September") || m.equals("9")){
             return 9;
         }
-        else if (m.equals("Oct") || m.equals("Oct.") || m.equals("October") || m.equals("19")){
+        else if (m.equals("Oct") || m.equals("Oct.") || m.equals("October") || m.equals("10")){
             return 10;
         }
         else if (m.equals("Nov") || m.equals("Nov.") || m.equals("November") || m.equals("11")){
