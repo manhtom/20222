@@ -15,7 +15,7 @@ nhân; giúp sinh viên thực hành, luyện tập để cơ bản hình thành
 việc thiết yếu, thích ứng với xã hội hiện đại và thực tiễn nghề nghiệp trong tương lai.
 Các kĩ năng phát triển cá nhân bao gồm: Tìm hiểu bản thân, xác lập mục tiêu cá nhân; Phát triển tư
 duy tích cực, sáng tạo và đổi mới; Quản lý thời gian hiệu quả; Nghệ thuật giao tiếp và thuyết trình;
-Nghệ thuật thuyết phục dựa trên tâm lí; Làm việc nhóm hiệu quả.
+Nghệ thuật thuyết phục dựa trên tâm lí; Làm việc nhóm hiệu quả. 
 
 <b><font size=”2”>- Objectives</b>: Students are able to:
 - Identify the importance of personal development skills at school, at work and in their life; Analyze the
@@ -59,3 +59,5 @@ Cách thức đánh giá môn học:
 - Hệ <i>(Program)</i></i>: CN
 - GVHD <i>(Instructor)</i>: Nguyễn Thị Hương Giang & Nguyễn Đắc Trung
 - Lịch <i>(Class Schedule)</i>: Tiết 1-3 Chiều thứ 6 (Tuần 25,27,29,31,35,37,39,41) - D9-101
+- Mã truy cập lớp <i>(Teams class code)</i>: dwt877w
+
